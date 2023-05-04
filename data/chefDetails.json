@@ -7,7 +7,33 @@
         "recipesNum" : "408",
         "likes" : "4k",
         "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen.",
-        "ingredients" : ["8 spagotti", "4 pancetti", "2eggs"]
+        "recipe" : [
+            {
+                "recipeId" : "1",
+                "recipeImg" : "https://i.ibb.co/yQfv2FT/chicken-pakora.jpg",
+                "recipeName" : "Chicken Pakora",
+                "ingredients" : ["2 regular size boneless chicken breasts, washed and finely chopped", " tbsp ginger paste", "1 tsp garlic paste", "1/2 tsp garam masala powder", "1/2 tsp salt"],
+                "cookingMethod" : ["1. Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours (can also be marinated overnight, or in the morning to fry in the afternoon/evening, in that case, add lime juice a few hours before frying).", "2. Add the salt, green chilli, cilantro and onions (if desired) and mix."],
+                "rating" : "4.5"
+            },
+            {
+                "recipeId" : "2",
+                "recipeImg" : "https://i.ibb.co/bXcyDyK/mutton-curry.jpg",
+                "recipeName" : "Mutton Curry with Potatoes",
+                "ingredients" : ["1 kg Mutton", "4 pcs Potato", "1/2 cup Chopped onion", "1 tsp each Ginger-garlic paste", "1 tsp Cumin powder"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "3.9"
+            },
+            {
+                "recipeId" : "3",
+                "recipeImg" : "https://i.ibb.co/VMK5gfN/Chiken.png",
+                "recipeName" : "Homestyle Chicken Korma",
+                "ingredients" : ["2 pounds bone-in chicken (dark meat best)", "2 medium onions,  peeled", "1.5  inch of ginger, chopped", "4 cloves garlic, chopped", "4 to 6 green cardamom pods"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "5.0"
+            }
+        ]
+
     },
     {
         "id" : "2",
@@ -16,7 +42,33 @@
         "experienceYears" : "8",
         "recipesNum" : "210",
         "likes" : "8k",
-        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen."
+        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen.",
+        "recipe" : [
+            {
+                "recipeId" : "1",
+                "recipeName" : "Chicken Pakora",
+                "recipeImg" : "https://i.ibb.co/yQfv2FT/chicken-pakora.jpg",
+                "ingredients" : ["2 regular size boneless chicken breasts, washed and finely chopped", " tbsp ginger paste", "1 tsp garlic paste", "1/2 tsp garam masala powder", "1/2 tsp salt"],
+                "cookingMethod" : ["1. Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours (can also be marinated overnight, or in the morning to fry in the afternoon/evening, in that case, add lime juice a few hours before frying).", "2. Add the salt, green chilli, cilantro and onions (if desired) and mix."],
+                "rating" : "4.5"
+            },
+            {
+                "recipeId" : "2",
+                "recipeName" : "Mutton Curry with Potatoes",
+                "recipeImg" : "https://i.ibb.co/bXcyDyK/mutton-curry.jpg",
+                "ingredients" : ["1 kg Mutton", "4 pcs Potato", "1/2 cup Chopped onion", "1 tsp each Ginger-garlic paste", "1 tsp Cumin powder"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "3.9"
+            },
+            {
+                "recipeId" : "3",
+                "recipeName" : "Homestyle Chicken Korma",
+                "recipeImg" : "https://i.ibb.co/VMK5gfN/Chiken.png",
+                "ingredients" : ["2 pounds bone-in chicken (dark meat best)", "2 medium onions,  peeled", "1.5  inch of ginger, chopped", "4 cloves garlic, chopped", "4 to 6 green cardamom pods"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "5.0"
+            }
+        ]
     },
     {
         "id" : "3",
@@ -25,7 +77,33 @@
         "experienceYears" : "7",
         "recipesNum" : "122",
         "likes" : "2.2k",
-        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen."
+        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen.",
+        "recipe" : [
+            {
+                "recipeId" : "1",
+                "recipeName" : "Chicken Pakora",
+                "recipeImg" : "https://i.ibb.co/yQfv2FT/chicken-pakora.jpg",
+                "ingredients" : ["2 regular size boneless chicken breasts, washed and finely chopped", " tbsp ginger paste", "1 tsp garlic paste", "1/2 tsp garam masala powder", "1/2 tsp salt"],
+                "cookingMethod" : ["1. Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours (can also be marinated overnight, or in the morning to fry in the afternoon/evening, in that case, add lime juice a few hours before frying).", "2. Add the salt, green chilli, cilantro and onions (if desired) and mix."],
+                "rating" : "4.5"
+            },
+            {
+                "recipeId" : "2",
+                "recipeName" : "Mutton Curry with Potatoes",
+                "recipeImg" : "https://i.ibb.co/bXcyDyK/mutton-curry.jpg",
+                "ingredients" : ["1 kg Mutton", "4 pcs Potato", "1/2 cup Chopped onion", "1 tsp each Ginger-garlic paste", "1 tsp Cumin powder"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "3.9"
+            },
+            {
+                "recipeId" : "3",
+                "recipeName" : "Homestyle Chicken Korma",
+                "recipeImg" : "https://i.ibb.co/VMK5gfN/Chiken.png",
+                "ingredients" : ["2 pounds bone-in chicken (dark meat best)", "2 medium onions,  peeled", "1.5  inch of ginger, chopped", "4 cloves garlic, chopped", "4 to 6 green cardamom pods"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "5.0"
+            }
+        ]
     },
     {
         "id" : "4",
@@ -34,7 +112,33 @@
         "experienceYears" : "5",
         "recipesNum" : "98",
         "likes" : "1.6k",
-        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen."
+        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen.",
+        "recipe" : [
+            {
+                "recipeId" : "1",
+                "recipeName" : "Chicken Pakora",
+                "recipeImg" : "https://i.ibb.co/yQfv2FT/chicken-pakora.jpg",
+                "ingredients" : ["2 regular size boneless chicken breasts, washed and finely chopped", " tbsp ginger paste", "1 tsp garlic paste", "1/2 tsp garam masala powder", "1/2 tsp salt"],
+                "cookingMethod" : ["1. Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours (can also be marinated overnight, or in the morning to fry in the afternoon/evening, in that case, add lime juice a few hours before frying).", "2. Add the salt, green chilli, cilantro and onions (if desired) and mix."],
+                "rating" : "4.5"
+            },
+            {
+                "recipeId" : "2",
+                "recipeName" : "Mutton Curry with Potatoes",
+                "recipeImg" : "https://i.ibb.co/bXcyDyK/mutton-curry.jpg",
+                "ingredients" : ["1 kg Mutton", "4 pcs Potato", "1/2 cup Chopped onion", "1 tsp each Ginger-garlic paste", "1 tsp Cumin powder"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "3.9"
+            },
+            {
+                "recipeId" : "3",
+                "recipeName" : "Homestyle Chicken Korma",
+                "recipeImg" : "https://i.ibb.co/VMK5gfN/Chiken.png",
+                "ingredients" : ["2 pounds bone-in chicken (dark meat best)", "2 medium onions,  peeled", "1.5  inch of ginger, chopped", "4 cloves garlic, chopped", "4 to 6 green cardamom pods"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "5.0"
+            }
+        ]
     },
     {
         "id" : "5",
@@ -43,7 +147,33 @@
         "experienceYears" : "15",
         "recipesNum" : "702",
         "likes" : "10k",
-        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen."
+        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen.",
+        "recipe" : [
+            {
+                "recipeId" : "1",
+                "recipeName" : "Chicken Pakora",
+                "recipeImg" : "https://i.ibb.co/yQfv2FT/chicken-pakora.jpg",
+                "ingredients" : ["2 regular size boneless chicken breasts, washed and finely chopped", " tbsp ginger paste", "1 tsp garlic paste", "1/2 tsp garam masala powder", "1/2 tsp salt"],
+                "cookingMethod" : ["1. Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours (can also be marinated overnight, or in the morning to fry in the afternoon/evening, in that case, add lime juice a few hours before frying).", "2. Add the salt, green chilli, cilantro and onions (if desired) and mix."],
+                "rating" : "4.5"
+            },
+            {
+                "recipeId" : "2",
+                "recipeName" : "Mutton Curry with Potatoes",
+                "recipeImg" : "https://i.ibb.co/bXcyDyK/mutton-curry.jpg",
+                "ingredients" : ["1 kg Mutton", "4 pcs Potato", "1/2 cup Chopped onion", "1 tsp each Ginger-garlic paste", "1 tsp Cumin powder"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "3.9"
+            },
+            {
+                "recipeId" : "3",
+                "recipeName" : "Homestyle Chicken Korma",
+                "recipeImg" : "https://i.ibb.co/VMK5gfN/Chiken.png",
+                "ingredients" : ["2 pounds bone-in chicken (dark meat best)", "2 medium onions,  peeled", "1.5  inch of ginger, chopped", "4 cloves garlic, chopped", "4 to 6 green cardamom pods"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "5.0"
+            }
+        ]
     },
     {
         "id" : "6",
@@ -52,7 +182,33 @@
         "experienceYears" : "6",
         "recipesNum" : "325",
         "likes" : "3.6k",
-        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen."
+        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen.",
+        "recipe" : [
+            {
+                "recipeId" : "1",
+                "recipeName" : "Chicken Pakora",
+                "recipeImg" : "https://i.ibb.co/yQfv2FT/chicken-pakora.jpg",
+                "ingredients" : ["2 regular size boneless chicken breasts, washed and finely chopped", " tbsp ginger paste", "1 tsp garlic paste", "1/2 tsp garam masala powder", "1/2 tsp salt"],
+                "cookingMethod" : ["1. Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours (can also be marinated overnight, or in the morning to fry in the afternoon/evening, in that case, add lime juice a few hours before frying).", "2. Add the salt, green chilli, cilantro and onions (if desired) and mix."],
+                "rating" : "4.5"
+            },
+            {
+                "recipeId" : "2",
+                "recipeName" : "Mutton Curry with Potatoes",
+                "recipeImg" : "https://i.ibb.co/bXcyDyK/mutton-curry.jpg",
+                "ingredients" : ["1 kg Mutton", "4 pcs Potato", "1/2 cup Chopped onion", "1 tsp each Ginger-garlic paste", "1 tsp Cumin powder"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "3.9"
+            },
+            {
+                "recipeId" : "3",
+                "recipeName" : "Homestyle Chicken Korma",
+                "recipeImg" : "https://i.ibb.co/VMK5gfN/Chiken.png",
+                "ingredients" : ["2 pounds bone-in chicken (dark meat best)", "2 medium onions,  peeled", "1.5  inch of ginger, chopped", "4 cloves garlic, chopped", "4 to 6 green cardamom pods"],
+                "cookingMethod" : ["1. Cut the meat into small pieces, wash and drain properly.", "2. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color.", "Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside."],
+                "rating" : "5.0"
+            }
+        ]
     }
 ]
 
