@@ -6,12 +6,13 @@
         "experienceYears" : "11",
         "recipesNum" : "408",
         "likes" : "4k",
-        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen."
+        "description" : "A chef is a professional cook and tradesman who is proficient in all aspects of food preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine the director or head of a kitchen.",
+        "ingredients" : ["8 spagotti", "4 pancetti", "2eggs"]
     },
     {
         "id" : "2",
         "chefPicture" : "https://i.ibb.co/yXXYz30/team2.jpg",
-        "chefName" : "Rakibul Alam",
+        "chefName" : "Ema Khanom",
         "experienceYears" : "8",
         "recipesNum" : "210",
         "likes" : "8k",
